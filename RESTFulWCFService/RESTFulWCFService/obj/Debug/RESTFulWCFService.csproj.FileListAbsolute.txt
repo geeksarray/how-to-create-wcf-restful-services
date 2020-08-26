@@ -1,0 +1,5 @@
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\bin\RESTFulWCFService.pdb
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+C:\Users\NQE8503\Laxmikant\Applications\RESTFulWCFService\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
